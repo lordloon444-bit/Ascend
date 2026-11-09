@@ -1,0 +1,11 @@
+.DS_Store
+.env
+.env.*
+*.pem
+*.key
+credentials*
+*token*.txt
+ASCEND_backup_*.json
+ASCEND-Data/
+data/
+snapshots/
